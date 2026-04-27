@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/BrennenGabriel/C#/test/test.csproj",
+      "projectUniqueName": "/Users/BrennenGabriel/MicrosoftFullStackDevelopment/IfElseStatements/test.csproj",
       "projectName": "test",
-      "projectPath": "/Users/BrennenGabriel/C#/test/test.csproj",
+      "projectPath": "/Users/BrennenGabriel/MicrosoftFullStackDevelopment/IfElseStatements/test.csproj",
       "packagesPath": "/Users/BrennenGabriel/.nuget/packages/",
-      "outputPath": "/Users/BrennenGabriel/C#/test/obj/",
+      "outputPath": "/Users/BrennenGabriel/MicrosoftFullStackDevelopment/IfElseStatements/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/BrennenGabriel/.nuget/NuGet/NuGet.Config"
