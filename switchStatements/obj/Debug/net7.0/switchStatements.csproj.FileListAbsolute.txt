@@ -1,0 +1,15 @@
+/Users/BrennenGabriel/C#/switchStatements/bin/Debug/net7.0/switchStatements
+/Users/BrennenGabriel/C#/switchStatements/bin/Debug/net7.0/switchStatements.deps.json
+/Users/BrennenGabriel/C#/switchStatements/bin/Debug/net7.0/switchStatements.runtimeconfig.json
+/Users/BrennenGabriel/C#/switchStatements/bin/Debug/net7.0/switchStatements.dll
+/Users/BrennenGabriel/C#/switchStatements/bin/Debug/net7.0/switchStatements.pdb
+/Users/BrennenGabriel/C#/switchStatements/obj/Debug/net7.0/switchStatements.csproj.AssemblyReference.cache
+/Users/BrennenGabriel/C#/switchStatements/obj/Debug/net7.0/switchStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/BrennenGabriel/C#/switchStatements/obj/Debug/net7.0/switchStatements.AssemblyInfoInputs.cache
+/Users/BrennenGabriel/C#/switchStatements/obj/Debug/net7.0/switchStatements.AssemblyInfo.cs
+/Users/BrennenGabriel/C#/switchStatements/obj/Debug/net7.0/switchStatements.csproj.CoreCompileInputs.cache
+/Users/BrennenGabriel/C#/switchStatements/obj/Debug/net7.0/switchStatements.dll
+/Users/BrennenGabriel/C#/switchStatements/obj/Debug/net7.0/refint/switchStatements.dll
+/Users/BrennenGabriel/C#/switchStatements/obj/Debug/net7.0/switchStatements.pdb
+/Users/BrennenGabriel/C#/switchStatements/obj/Debug/net7.0/switchStatements.genruntimeconfig.cache
+/Users/BrennenGabriel/C#/switchStatements/obj/Debug/net7.0/ref/switchStatements.dll
