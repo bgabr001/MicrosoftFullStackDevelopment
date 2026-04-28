@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/BrennenGabriel/C#/switchStatements/switchStatements.csproj": {}
+    "/Users/BrennenGabriel/MicrosoftFullStackDevelopment/FoundationsOfCodingFullStack/ImplementingControlStructures/ImplementingControlStructures.csproj": {}
   },
   "projects": {
-    "/Users/BrennenGabriel/C#/switchStatements/switchStatements.csproj": {
+    "/Users/BrennenGabriel/MicrosoftFullStackDevelopment/FoundationsOfCodingFullStack/ImplementingControlStructures/ImplementingControlStructures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/BrennenGabriel/C#/switchStatements/switchStatements.csproj",
-        "projectName": "switchStatements",
-        "projectPath": "/Users/BrennenGabriel/C#/switchStatements/switchStatements.csproj",
+        "projectUniqueName": "/Users/BrennenGabriel/MicrosoftFullStackDevelopment/FoundationsOfCodingFullStack/ImplementingControlStructures/ImplementingControlStructures.csproj",
+        "projectName": "ImplementingControlStructures",
+        "projectPath": "/Users/BrennenGabriel/MicrosoftFullStackDevelopment/FoundationsOfCodingFullStack/ImplementingControlStructures/ImplementingControlStructures.csproj",
         "packagesPath": "/Users/BrennenGabriel/.nuget/packages/",
-        "outputPath": "/Users/BrennenGabriel/C#/switchStatements/obj/",
+        "outputPath": "/Users/BrennenGabriel/MicrosoftFullStackDevelopment/FoundationsOfCodingFullStack/ImplementingControlStructures/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/BrennenGabriel/.nuget/NuGet/NuGet.Config"

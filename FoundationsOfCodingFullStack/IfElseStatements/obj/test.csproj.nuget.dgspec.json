@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/BrennenGabriel/MicrosoftFullStackDevelopment/IfElseStatements/test.csproj": {}
+    "/Users/BrennenGabriel/MicrosoftFullStackDevelopment/FoundationsOfCodingFullStack/IfElseStatements/test.csproj": {}
   },
   "projects": {
-    "/Users/BrennenGabriel/MicrosoftFullStackDevelopment/IfElseStatements/test.csproj": {
+    "/Users/BrennenGabriel/MicrosoftFullStackDevelopment/FoundationsOfCodingFullStack/IfElseStatements/test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/BrennenGabriel/MicrosoftFullStackDevelopment/IfElseStatements/test.csproj",
+        "projectUniqueName": "/Users/BrennenGabriel/MicrosoftFullStackDevelopment/FoundationsOfCodingFullStack/IfElseStatements/test.csproj",
         "projectName": "test",
-        "projectPath": "/Users/BrennenGabriel/MicrosoftFullStackDevelopment/IfElseStatements/test.csproj",
+        "projectPath": "/Users/BrennenGabriel/MicrosoftFullStackDevelopment/FoundationsOfCodingFullStack/IfElseStatements/test.csproj",
         "packagesPath": "/Users/BrennenGabriel/.nuget/packages/",
-        "outputPath": "/Users/BrennenGabriel/MicrosoftFullStackDevelopment/IfElseStatements/obj/",
+        "outputPath": "/Users/BrennenGabriel/MicrosoftFullStackDevelopment/FoundationsOfCodingFullStack/IfElseStatements/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/BrennenGabriel/.nuget/NuGet/NuGet.Config"
