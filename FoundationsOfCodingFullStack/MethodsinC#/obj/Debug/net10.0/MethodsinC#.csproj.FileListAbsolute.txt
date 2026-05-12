@@ -1,0 +1,15 @@
+/Users/BrennenGabriel/MicrosoftFullStackDevelopment/FoundationsOfCodingFullStack/MethodsinC#/bin/Debug/net10.0/MethodsinC#
+/Users/BrennenGabriel/MicrosoftFullStackDevelopment/FoundationsOfCodingFullStack/MethodsinC#/bin/Debug/net10.0/MethodsinC#.deps.json
+/Users/BrennenGabriel/MicrosoftFullStackDevelopment/FoundationsOfCodingFullStack/MethodsinC#/bin/Debug/net10.0/MethodsinC#.runtimeconfig.json
+/Users/BrennenGabriel/MicrosoftFullStackDevelopment/FoundationsOfCodingFullStack/MethodsinC#/bin/Debug/net10.0/MethodsinC#.dll
+/Users/BrennenGabriel/MicrosoftFullStackDevelopment/FoundationsOfCodingFullStack/MethodsinC#/bin/Debug/net10.0/MethodsinC#.pdb
+/Users/BrennenGabriel/MicrosoftFullStackDevelopment/FoundationsOfCodingFullStack/MethodsinC#/obj/Debug/net10.0/MethodsinC#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/BrennenGabriel/MicrosoftFullStackDevelopment/FoundationsOfCodingFullStack/MethodsinC#/obj/Debug/net10.0/MethodsinC#.AssemblyInfoInputs.cache
+/Users/BrennenGabriel/MicrosoftFullStackDevelopment/FoundationsOfCodingFullStack/MethodsinC#/obj/Debug/net10.0/MethodsinC#.AssemblyInfo.cs
+/Users/BrennenGabriel/MicrosoftFullStackDevelopment/FoundationsOfCodingFullStack/MethodsinC#/obj/Debug/net10.0/MethodsinC#.csproj.CoreCompileInputs.cache
+/Users/BrennenGabriel/MicrosoftFullStackDevelopment/FoundationsOfCodingFullStack/MethodsinC#/obj/Debug/net10.0/MethodsinC#.sourcelink.json
+/Users/BrennenGabriel/MicrosoftFullStackDevelopment/FoundationsOfCodingFullStack/MethodsinC#/obj/Debug/net10.0/MethodsinC#.dll
+/Users/BrennenGabriel/MicrosoftFullStackDevelopment/FoundationsOfCodingFullStack/MethodsinC#/obj/Debug/net10.0/refint/MethodsinC#.dll
+/Users/BrennenGabriel/MicrosoftFullStackDevelopment/FoundationsOfCodingFullStack/MethodsinC#/obj/Debug/net10.0/MethodsinC#.pdb
+/Users/BrennenGabriel/MicrosoftFullStackDevelopment/FoundationsOfCodingFullStack/MethodsinC#/obj/Debug/net10.0/MethodsinC#.genruntimeconfig.cache
+/Users/BrennenGabriel/MicrosoftFullStackDevelopment/FoundationsOfCodingFullStack/MethodsinC#/obj/Debug/net10.0/ref/MethodsinC#.dll
